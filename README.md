@@ -1,0 +1,2 @@
+# Enhanced-Literature-Summarization-with-Table-Data-Extraction
+The system will extract key information from both sources and generate a comprehensive summary that captures the essence of the research while integrating relevant data points from tables. The expected outcomes include a functional prototype demonstrating improved summarization accuracy and information retrieval compared to existing methods.
